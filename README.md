@@ -8,6 +8,7 @@ Levels load from MARIO.txt on a FAT32 SD card. Controller is ESP-NOW.
 
 - CYD_Mario_v4_3.ino — game sketch
 - MARIO.txt — levels
+- ESP32_Controller — game controller
 
 ## Build
 
